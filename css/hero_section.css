@@ -19,6 +19,7 @@
   display: flex;
   align-items: center;
   gap: 3rem;
+  transform: translateY(-10px);
 }
 
 .nav-bar nav ul li {
